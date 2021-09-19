@@ -19,7 +19,8 @@
 
 ## Here's a demo vid i'll deploy it soon.
 
-<img src='demo1.gif' width='300'>
+<img src='Demo1.gif' width='300'>
+<img src='demo2.giv' width='300'>
 
 
 
