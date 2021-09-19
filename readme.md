@@ -17,10 +17,11 @@
 * Your passwords are encrypted so that I don't actually know them. I'll add bcrypt encrytiton and salting feature.
 
 
-## Here's some demo vids i'll deploy it soon.
+## Here's a demo vid i'll deploy it soon.
 
-<img src='demo1.gif' width='200' >
-<img src='demo2.gif' width='200'>
+<img src='demo1.gif' width='300'>
+
+
 
  
 
