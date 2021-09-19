@@ -19,7 +19,9 @@
 
 ## Here's some demo vids i'll deploy it soon.
 
-![](demo1.gif)
-![](demo2.gif)
-![](demo3.gif)
+<img src='demo1.gif' width='200' >
+<img src='demo2.gif' width='200'>
+
+ 
+
 
